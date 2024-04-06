@@ -1,8 +1,11 @@
+import React from 'react'
 
-export default function about() {
+function componentName() {
   return (
-    <main className="">
-        <h1>About page</h1>
-    </main>
-  );
+    <div>
+      
+    </div>
+  )
 }
+
+export default componentName
